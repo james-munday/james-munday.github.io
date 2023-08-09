@@ -21,8 +21,7 @@
 title: James Munday
 email: jmunday@perimeterinstitute.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm James Munday. I am a PhD student in mathematics at the University of Toronto and a Resident PhD 
-  Student at the Perimeter Institute for Theoretical Physics. My PhD supervisor is Prof. Kevin Costello.
+  PhD Student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://james-munday.github.io
 # twitter_username: jekyllrb
