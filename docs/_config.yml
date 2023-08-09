@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm James Munday. I am a PhD student in mathematics at the University of Toronto and a Resident PhD 
   Student at the Perimeter Institute for Theoretical Physics. My PhD supervisor is Prof. Kevin Costello.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://james-munday.github.io
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
