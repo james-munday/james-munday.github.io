@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
+title: About Me
 permalink: /about/
 ---
 
-Eventually, this page will contain details about my research.
+This page will be for details about myself.
