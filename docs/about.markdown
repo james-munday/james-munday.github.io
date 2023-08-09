@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: I have changed the title
 permalink: /about/
 ---
 
