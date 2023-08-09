@@ -22,12 +22,11 @@ title: James Munday
 email: jmunday@perimeterinstitute.ca
 description: "" # >- means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://james-munday.github.io
+url: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
