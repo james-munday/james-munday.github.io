@@ -21,7 +21,7 @@
 title: James Munday
 email: jmunday@perimeterinstitute.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Student
+  ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://james-munday.github.io
 # twitter_username: jekyllrb
