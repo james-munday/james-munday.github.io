@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+author_profile: true
 ---
 
 Hi, my name is James Munday. I am a Resident PhD Student at the [Perimeter Institute for Theoretical Physics][pitp] and a PhD student in the [Department of Mathematics][dept-math] at the University of Toronto. My supervisor is [Prof. Kevin Costello][kevin].
