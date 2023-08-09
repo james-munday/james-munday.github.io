@@ -35,7 +35,7 @@ plugins:
 # For Minimal Mistakes
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-remote_theme: benbalter/retlab
+remote_theme: mmistakes/minimal-mistakes
 
 # Exclude from processing.
 # The following items will not be processed, by default.
