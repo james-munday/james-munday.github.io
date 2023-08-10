@@ -20,11 +20,13 @@
 
 title: James Munday
 email: jmunday@perimeterinstitute.ca
-description: "" # >- means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
+description: "" # >- means to ignore newlines until "url:"
+url: "https://mmistakes.github.io"
+baseurl: "/minimal-mistakes" # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 # github_username:  jekyll
+
+repository: james-munday/james-munday.github.io
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
@@ -61,3 +63,15 @@ paginate_path: /page:num/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minimal_mistakes_skin: "contrast"
+
+author:
+  name: "James Munday"
+  avatar: "/assets/images/JamesMunday005square.jpg"
+  bio: "PhD student in mathematical physics." # Note: Markdown is allowed
+  location: "Toronto, Ontario, Canada"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "jmunday@perimeterinstitute.ca"
