@@ -71,5 +71,15 @@ author:
   bio: "PhD Student in Mathematical Physics." # Note: Markdown is allowed
   location: "Toronto, ON"
   email: "jmunday@perimeterinstitute.ca"
+  links:
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: https://www.researchgate.net/profile/James-Munday-3
+    # - label: "arXiv"
+    #   icon: "fab fa-fw fa-arxiv"
+    #   url: https://arxiv.org/a/fritz_m_1.html
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-scholar"
+      url: https://scholar.google.ca/citations?hl=en&user=fIvzx4cAAAAJ
 
 include: ["_pages"]
