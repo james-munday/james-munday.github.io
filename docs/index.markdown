@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: true
+# author_profile: true
 ---
 
 Hi, my name is James Munday. I am a PhD Student at the [Perimeter Institute for Theoretical Physics][pitp] and in the [Department of Mathematics][dept-math] at the University of Toronto. My supervisor is [Kevin Costello][kevin].
