@@ -21,8 +21,8 @@
 title: James Munday
 email: jmunday@perimeterinstitute.ca
 description: "" # >- means to ignore newlines until "url:"
-url: "https://mmistakes.github.io"
-baseurl: "/minimal-mistakes" # the subpath of your site, e.g. /blog
+url: "https://james-munday.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
