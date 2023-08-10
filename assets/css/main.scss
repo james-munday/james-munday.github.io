@@ -32,11 +32,11 @@ html {
   width: 80px;
   height: 80px;
 
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
+  // @include breakpoint($large) {
+  //   display: block;
+  //   width: auto;
+  //   height: auto;
+  // }
 
   img {
     object-fit: cover;
