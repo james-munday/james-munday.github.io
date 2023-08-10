@@ -70,9 +70,6 @@ author:
   avatar: "/assets/images/JamesMunday005square.jpg"
   bio: "PhD Student in Mathematical Physics." # Note: Markdown is allowed
   location: "Toronto, ON"
-  links:
-    - label: "jmunday@perimeterinstitute.ca"
-      icon: "fa fa-envelope"
-      url: ""
+  email: "jmunday@perimeterinstitute.ca"
 
 include: ["_pages"]
