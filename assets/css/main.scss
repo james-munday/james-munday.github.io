@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}"; // skin
 
 @import "minimal-mistakes"; 
 
@@ -39,13 +39,16 @@ html {
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    object-fit: cover;
+    width: 230px;
+    height: 230px;
+    // max-width: 175px;
+    // border-radius: 50%;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    // @include breakpoint($large) {
+    //   padding: 5px;
+    //   border: 1px solid $border-color;
+    // }
   }
 }
 }
