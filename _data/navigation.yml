@@ -1,0 +1,8 @@
+# main links links
+main:
+  - title: "Research" 
+    url: /research/
+  - title: "About Me"
+    url: /about/
+  - title: "Other Projects"
+    url: /other/
