@@ -27,28 +27,25 @@ html {
 @media (min-width: 80em) {
 
 .author__avatar {
-  // display: table-cell;
-  // vertical-align: top;
-  // width: 80px;
-  // height: 80px;
+  display: table-cell;
+  vertical-align: top;
+  width: 80px;
+  height: 80px;
 
-  // @include breakpoint($large) {
-  //   display: block;
-  //   width: auto;
-  //   height: auto;
-  // }
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
 
   img {
-    object-fit: cover;
-    width: 80px;
-    height: 80px;
-    // max-width: 175px;
-    // border-radius: 50%;
+    max-width: 175px;
+    border-radius: 50%;
 
-    // @include breakpoint($large) {
-    //   padding: 5px;
-    //   border: 1px solid $border-color;
-    // }
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 }
