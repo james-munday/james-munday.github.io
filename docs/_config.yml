@@ -65,20 +65,14 @@ paginate_path: /page:num/
 
 minimal_mistakes_skin: "contrast"
 
-# author:
-#   name: "James Munday"
-#   avatar: "/assets/images/JamesMunday005square.jpg"
-#   bio: "PhD Student in Mathematical Physics." # Note: Markdown is allowed
-#   location: "Toronto, ON"
-#   links:
-#     - label: "jmunday@perimeterinstitute.ca"
-#       icon: "fa fa-envelope"
-#       url: ""
-
-sidebar:
-  - title: "James Munday"
-    image: "/assets/images/JamesMunday005square.jpg"
-    image_alt: "image"
-    text: "PhD Student in Mathematical Physics."
+author:
+  name: "James Munday"
+  avatar: "/assets/images/JamesMunday005square.jpg"
+  bio: "PhD Student in Mathematical Physics." # Note: Markdown is allowed
+  location: "Toronto, ON"
+  links:
+    - label: "jmunday@perimeterinstitute.ca"
+      icon: "fa fa-envelope"
+      url: ""
 
 include: ["_pages"]
