@@ -69,11 +69,11 @@ minimal_mistakes_skin: "contrast"
 author:
   name: "James Munday"
   avatar: "/assets/images/JamesMunday005square.jpg"
-  bio: "PhD student in mathematical physics." # Note: Markdown is allowed
+  bio: "PhD Student in Mathematical Physics." # Note: Markdown is allowed
   location: "Toronto, ON"
   links:
-    - label: "Email"
+    - label: "jmunday@perimeterinstitute.ca"
       icon: "fa fa-envelope"
-      url: "jmunday@perimeterinstitute.ca"
+      url: ""
 
 include: ["_pages"]
