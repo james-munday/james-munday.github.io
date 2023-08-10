@@ -70,8 +70,10 @@ author:
   name: "James Munday"
   avatar: "/assets/images/JamesMunday005square.jpg"
   bio: "PhD student in mathematical physics." # Note: Markdown is allowed
-  location: "Toronto, Ontario, Canada"
+  location: "Toronto, ON"
   links:
     - label: "Email"
       icon: "fa fa-envelope"
       url: "jmunday@perimeterinstitute.ca"
+
+include: ["_pages"]
